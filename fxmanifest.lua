@@ -1,0 +1,5 @@
+fx_version "cerulean"
+game "gta5"
+author "Tobieuu1"
+description "ABC_pausemenu"
+client_script "client/main.lua"
